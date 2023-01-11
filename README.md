@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Profile%20views&color=0e75b6&style=flat" alt="JuanJesusAlejoSillero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanJesusAlejoSillero"&theme=onedark alt="JuanJesusAlejoSillero" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanJesusAlejoSillero&theme=darkhub&no-frame=true&no-bg=true" alt="JuanJesusAlejoSillero" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para subirlas aquí en unos meses**
 
