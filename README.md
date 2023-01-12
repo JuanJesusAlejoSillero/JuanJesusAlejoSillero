@@ -24,4 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es)
 
+<!-- Oculto hasta que verifique que está funcionando de nuevo
 ![Top Langs](https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es&layout=compact)
+-->
