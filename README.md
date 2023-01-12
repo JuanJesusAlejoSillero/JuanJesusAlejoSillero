@@ -22,6 +22,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanJesusAlejoSillero&theme=github-dark-blue&hide_border=true&border_radius=10&locale=es)](JuanJesusAlejoSillero)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es&layout=compact)](JuanJesusAlejoSillero)
+[![GitHub Stats](https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs?username=JuanJesusAlejoSillero&theme=transparent&show_icons=true&locale=es&layout=compact)](JuanJesusAlejoSillero)
