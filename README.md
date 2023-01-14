@@ -12,17 +12,15 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </p>
 
-- 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para subirlas aquí en unos meses**
+- 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para publicar dicha documentación en unos meses**
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **seguridad informática**
 
 - 🤝 Me vendría bien ayuda en [cualquier cosa que puedas mejorar de mis repositorios](https://github.com/JuanJesusAlejoSillero?tab=repositories)
 
-- 💬 Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
+- ⚡ Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
 
-- 📫 Puedes contactarme en **juanjesusalejosillero@gmail.com**
-
-- ⚡ Mi perfil de LinkedIn está [aquí](https://www.linkedin.com/in/JuanJesusAlejoSillero/)
+- 📫 Puedes contactarme por LinkedIn o por email, a la dirección **juanjesusalejosillero@gmail.com**
 
 <h2 align="center">
   <b>Algunas tecnologías y herramientas que utilizo:</b>
