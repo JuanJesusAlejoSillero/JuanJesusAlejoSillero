@@ -96,7 +96,7 @@
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
   </a>
   <a href="https://github.com/JuanJesusAlejoSillero">
-    <img src="https://streak-stats.demolab.com?user=JuanJesusAlejoSillero&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=10&amp;locale=es" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=JuanJesusAlejoSillero&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
   </a>
   <a href="https://github.com/JuanJesusAlejoSillero">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
