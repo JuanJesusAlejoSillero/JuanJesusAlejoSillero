@@ -16,7 +16,7 @@
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **seguridad informática**
 
-- 🤝 Me vendría bien ayuda en [cualquier cosa que puedas mejorar de mis repositorios](https://github.com/JuanJesusAlejoSillero?tab=repositories)
+- 🤝 Me vendría bien ayuda en [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/JuanJesusAlejoSillero?tab=repositories)
 
 - ⚡ Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
 
