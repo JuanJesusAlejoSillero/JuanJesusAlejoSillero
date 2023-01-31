@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JuanJesusAlejoSillero&theme=darkhub&no-frame=true&no-bg=true" alt="JuanJesusAlejoSillero" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JuanJesusAlejoSillero&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="JuanJesusAlejoSillero" />
   </a>
 </p>
 
