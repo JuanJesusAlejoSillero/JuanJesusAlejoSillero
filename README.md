@@ -1,5 +1,5 @@
 <h1 align="center"><b>Bienvenid@ a mi GitHub, soy Juanje 👨🏻‍💻</b></h1>
-<h2 align="center"><b>Estudiante de ASIR 🎓</b></h2>
+<h2 align="center"><b>Administrador de Sistemas</b></h2>
 
 <p align="center">
   <a href="https://github.com/JuanJesusAlejoSillero?tab=followers">
