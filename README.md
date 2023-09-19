@@ -1,5 +1,5 @@
 <h1 align="center"><b>Bienvenid@ a mi GitHub, soy Juanje 👨🏻‍💻</b></h1>
-<h2 align="center"><b>Administrador de Sistemas</b></h2>
+<h2 align="center"><b>Administrador de Sistemas y Redes</b></h2>
 
 <p align="center">
   <a href="https://github.com/JuanJesusAlejoSillero?tab=followers">
@@ -20,7 +20,7 @@
 
 - ⚡ Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
 
-- 📫 Puedes contactarme por LinkedIn o por email, a la dirección **juanjesusalejosillero@gmail.com**
+- 📫 Puedes encontrar las diferentes formas de contactarme en mi web: [**hub.juanje.net**](https://hub.juanje.net/)
 
 <h2 align="center">
   <b>Algunas tecnologías y herramientas que utilizo:</b>
@@ -78,7 +78,7 @@
 </p>
 
 <h2 align="center">
-  <b>Datos sobre mi GitHub:</b>
+  <b>Estadísticas sobre mi GitHub:</b>
 </h2>
 
 <p align="center">
