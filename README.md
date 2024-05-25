@@ -81,9 +81,11 @@
   <b>Estadísticas sobre mi GitHub:</b>
 </h2>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="JuanJesusAlejoSillero"/>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -91,6 +93,7 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/JuanJesusAlejoSillero">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
@@ -102,3 +105,4 @@
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
+-->
