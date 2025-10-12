@@ -12,8 +12,6 @@
 
 [![Website](https://img.shields.io/badge/Website-sh.juanje.net-313131?style=flat&labelColor=545454&color=313131)](https://github.com/JuanJesusAlejoSillero.gpg) [![visits](https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&style=flat&color=313131&label=visits&abbreviated=true)](https://github.com/JuanJesusAlejoSillero) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
-<br>
-
 #### ⚡ Stats
 
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PRs, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
