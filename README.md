@@ -12,11 +12,9 @@
 
 [![Website](https://img.shields.io/badge/Website-sh.juanje.net-313131?style=flat&labelColor=545454&color=313131)](https://github.com/JuanJesusAlejoSillero.gpg) [![visits](https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&style=flat&color=313131&label=visits&abbreviated=true)](https://github.com/JuanJesusAlejoSillero) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
-<br>
-
 #### ⚡ Stats
 
-I joined GitHub **2** years ago and since then I have pushed **429** commits, opened **1** issues, submitted **51** PRs, received **22** stars across **20** personal projects and contributed to **6** public repositories.
+I joined GitHub **2** years ago and since then I have pushed **431** commits, opened **1** issues, submitted **51** PRs, received **22** stars across **20** personal projects and contributed to **6** public repositories.
 
 #### 🛠️ Main Tech Stack
 
