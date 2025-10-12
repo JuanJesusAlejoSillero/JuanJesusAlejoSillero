@@ -1,0 +1,34 @@
+name: Update README.md stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # at 4:00 every day
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: JuanJesusAlejoSillero/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+      - name: Update README.md
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name 'JuanJesusAlejoSillero'
+            git config user.email 'juanjesusalejosillero@gmail.com'
+            git add *.md
+            git commit -m "Update README.md stats"
+            git push
+          fi
