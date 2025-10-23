@@ -10,7 +10,7 @@
 
 🌐 Want to know more about me? Take a look at my website by clicking the badge below!
 
-[![Website](https://img.shields.io/badge/Website-sh.juanje.net-313131?style=flat&labelColor=545454&color=313131)](https://github.com/JuanJesusAlejoSillero.gpg) [![visits](https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&style=flat&color=313131&label=visits&abbreviated=true)](https://github.com/JuanJesusAlejoSillero) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+[![Website](https://img.shields.io/badge/Website-sh.juanje.net-313131?style=flat&labelColor=545454&color=313131)](https://sh.juanje.net) [![visits](https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&style=flat&color=313131&label=visits&abbreviated=true)](https://github.com/JuanJesusAlejoSillero) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
 #### ⚡ Stats
 
