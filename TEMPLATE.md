@@ -8,7 +8,7 @@
 
 🚀 I specialize in automating infrastructure, CI/CD pipelines, cloud technologies and Linux servers.
 
-🐧 Also, I love Linux and has been the kernel of my main operating system since 2008.
+🐧 Also, I love Linux, which has been the kernel of my main operating system since 2008.
 
 🌐 Want to know more about me? Take a look at my website by clicking the badge below!
 
