@@ -8,7 +8,7 @@
 
 🚀 I specialize in automating infrastructure, CI/CD pipelines, cloud technologies and Linux servers.
 
-🐧 Also, I love Linux and has been the kernel of my main operating system since 2008.
+🐧 Also, I love Linux, which has been the kernel of my main operating system since 2008.
 
 🌐 Want to know more about me? Take a look at my website by clicking the badge below!
 
@@ -16,7 +16,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **3** years ago and since then I have pushed **658** commits, opened **1** issues, submitted **50** PRs, received **22** stars across **22** personal projects and contributed to **4** public repositories.
+I joined GitHub **3** years ago and since then I have pushed **660** commits, opened **1** issues, submitted **50** PRs, received **22** stars across **22** personal projects and contributed to **4** public repositories.
 
 #### 🛠️ Main Tech Stack
 
